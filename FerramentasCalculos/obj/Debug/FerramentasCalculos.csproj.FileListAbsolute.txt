@@ -1,0 +1,13 @@
+C:\Users\Diego\source\repos\FerramentasCalculos\FerramentasCalculos\bin\Debug\FerramentasCalculos.exe.config
+C:\Users\Diego\source\repos\FerramentasCalculos\FerramentasCalculos\bin\Debug\FerramentasCalculos.exe
+C:\Users\Diego\source\repos\FerramentasCalculos\FerramentasCalculos\bin\Debug\FerramentasCalculos.pdb
+C:\Users\Diego\source\repos\FerramentasCalculos\FerramentasCalculos\obj\Debug\FerramentasCalculos.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\FerramentasCalculos\FerramentasCalculos\obj\Debug\FerramentasCalculos.exe
+C:\Users\Diego\source\repos\FerramentasCalculos\FerramentasCalculos\obj\Debug\FerramentasCalculos.pdb
+C:\Users\Diego\source\repos\FerramentasCalculos\FerramentasCalculos\obj\Debug\FerramentasCalculos.csprojAssemblyReference.cache
+C:\Windows.old\Users\Diego\source\repos\FerramentasCalculos\FerramentasCalculos\bin\Debug\FerramentasCalculos.exe.config
+C:\Windows.old\Users\Diego\source\repos\FerramentasCalculos\FerramentasCalculos\bin\Debug\FerramentasCalculos.exe
+C:\Windows.old\Users\Diego\source\repos\FerramentasCalculos\FerramentasCalculos\bin\Debug\FerramentasCalculos.pdb
+C:\Windows.old\Users\Diego\source\repos\FerramentasCalculos\FerramentasCalculos\obj\Debug\FerramentasCalculos.csprojAssemblyReference.cache
+C:\Windows.old\Users\Diego\source\repos\FerramentasCalculos\FerramentasCalculos\obj\Debug\FerramentasCalculos.exe
+C:\Windows.old\Users\Diego\source\repos\FerramentasCalculos\FerramentasCalculos\obj\Debug\FerramentasCalculos.pdb
